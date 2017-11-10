@@ -3,7 +3,7 @@ English To Marathi App
 
 This app displays lists of vocabulary words for the user to learn the Marathi language.
 I have developed this app in the Beginner's AndroidUdacity course.
-Download .apk file here - 
+Download .apk file here - https://github.com/mahajan-pooja/English-To-Marathi/blob/gh-pages/app-debug.apk
 
 
 Pre-requisites
